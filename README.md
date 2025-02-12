@@ -15,7 +15,7 @@ AI Code Check is a web application that allows users to input code snippets and 
 
 - **Frontend**: React, Prism.js, Markdown
 - **Backend**: Node.js, Express, AI service integration
-- **Database**: (if applicable)
+
 
 ## Installation
 
