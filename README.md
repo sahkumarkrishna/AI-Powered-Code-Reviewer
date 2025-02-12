@@ -1,4 +1,4 @@
-# AI Code Check
+# AI Powered Code Reviewer
 
 ## Overview
 
@@ -39,8 +39,8 @@ AI Code Check is a web application that allows users to input code snippets and 
    npm start
 # Environment variables
 .env ,
-PORT
-GOOGLE_GEMINI_KEY
+PORT , 
+ GOOGLE_GEMINI_KEY
  
 
    
